@@ -56,3 +56,7 @@ PURPLE/WHITE VISUAL UPGRADE
 - Added purple-and-white hero/banner illustrations and demo food item pictures.
 - Updated CSS theme with purple gradients, white cards, rounded panels, improved nav, buttons, tables, forms, and login/register pages.
 - Demo SQL now assigns default restaurant logo and menu item images.
+
+This project follows MVC architecture.
+Restaurant Manager can manage profile, menu, discounts, orders, reviews, analytics, and complaints.
+AJAX is used for real-time order updates and menu availability toggle.
