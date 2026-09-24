@@ -340,7 +340,7 @@ Bangladesh
 
 ## 📚 Project Type
 
-**Academic / Web Technology Project**
+**Web Technology Project**
 
 **Domain:** Restaurant Management & Online Food Ordering
 **Architecture:** Model-View-Controller (MVC)
