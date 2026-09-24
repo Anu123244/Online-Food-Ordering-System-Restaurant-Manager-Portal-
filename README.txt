@@ -1,4 +1,4 @@
-Role 2 - Restaurant Manager Only
+Restaurant Manager 
 
 This folder is independent. It does not depend on Role 3 or any shared_database folder.
 
