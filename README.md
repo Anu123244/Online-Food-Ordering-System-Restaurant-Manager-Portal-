@@ -332,7 +332,7 @@ The project demonstrates practical implementation of **full-stack web developmen
 
 ## 👨‍💻 Author
 
-Anannya Tithi 
+Anannya Tithi | 
 Computer Science & Engineering
 Bangladesh
 
