@@ -1,20 +1,12 @@
 
 :root {
-    --purple-950: #372883;
-    --purple-900: #3b0764;
-    --purple-800: #4c1d95;
-    --purple-700: #7174a4;
-    --purple-600: #7c3aed;
-    --purple-500: #8b5cf6;
-    --purple-100: #ede9fe;
-    --purple-50: #faf5ff;
-    --white: #ffffff;
-    --ink: #1e1b4b;
-    --muted: #6b7280;
-    --line: #e9d5ff;
-    --success: #16a34a;
-    --danger: #dc2626;
-    --shadow: 0 18px 45px rgba(76, 29, 149, .13);
+    --primary-color: #6C5CE7;      /* Main Purple */
+    --primary-hover: #5A4AD1;      /* Darker Purple */
+    --bg-color: #F8F9FA;           /* Off-White Background */
+    --card-bg: #FFFFFF;            /* White Card Background */
+    --text-color: #2D3436;          /* Dark Text */
+    --sidebar-bg: #2D1F47;         /* Deep Purple Sidebar */
+    --sidebar-active: #6C5CE7;     /* Purple Active Accent */
 }
 * { box-sizing: border-box; }
 body {
